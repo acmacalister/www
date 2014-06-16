@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Austin Cherry
+tagline:          'website for austin'
+description:      'Master tactician. Single handily defeated an entire armada of klingon war birds. The true last samurai that has looked at Chuck Norris and lived. Believer in Jesus Christ. Music fanatic and guitar player extraordinaire. Programmer of iOS/OS X Apps, Ruby Ronin and Golang Gopher. I be doing my tech blogging at <a href="http://vluxe.io">vluxe.io</a>'
+url:              http://www.austincherry.me
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/acmacalister
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/acmacalister/www

@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Awards & Accolades"
+---
+
+# Projects
+
+### [Chat Simply](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+### [Instee](http://www.insteeapp.com)
+
+Social Networking app for connection Instgram users. Web stack included Rails and Instgram API. Used Elastic Search to do full text searching for location based information... More to come.
+
+# Skills
+
+**Programming Languages**
+
+- Objective-C
+- Swift
+- Go
+- C/C++
+- Ruby
+- Python
+- Javascript
+- Coffeescript
+
+**Tools/Techs**
+
+- Mysql/Postgres
+- NoSQL
+- ElasticSearch
+- Docker
+- Kirk
+- Angular
+- Backbone
+- Node
+- On and on
+
+# Open Source
+
+### [Orca](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+### [Jetfire](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+### [Kirk](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+### [Github-Swift](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+### [Chatter](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+### [CalendarKit](http://www.chatsimply.com)
+
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+
+# Education
+
+### The Master's College
+
+Bachelor's in Computer Science, expected May 2015
+
+# Work History
+
+### Developer
+
+**July 2012 - Present**
+
+Developed several different software across multiple platforms including iOS, Linux, OS X and Android. Key software platforms were mobile and web. Mobile development was mostly iOS projects involved primarily around designing and building app's for social network and learning management system called My Big Campus. Web development was a project for mobile filter clients to check with hosted services through an API that included client configuration information. Web stack was Node.js, Backbone.js and Ruby on Rails. Also assisted on misc C projects, such as building an apache webdav and authentication module.
+
+### Quality Assurance Engineer
+
+**June 2011 - June 2012**
+
+Worked in all aspects of testing to ensure quality software. This included: Creating build scripts to create one step builds, troubleshooting and debugging code to resolve issues. Creating software deployment packages on all major platforms (Windows, Mac OS X, Linux). Writing accurate and update to date test plans. Preformed regression testing and code review. Assisting in any major support escalation and case review for technical accuracy.
+
+### Technical Support Engineer
+
+**March 2010 - May 2011**
+
+Provided customer and technical assistance on security/networking based product. Top ranked case handler and customer satisfaction. These services included: workload and case management, troubleshooting all desktop and server network and software related problems. DNS, SQL installs, web server installs, and network configuration for implementing software in the customer's network.
+
+### Anti-virus Engineer
+
+**August 2009 - March 2010**
+
+Provided customers with technical and desktop assistance on security and anti-virus products. Top ranked case handler and customer satisfaction. This included troubleshooting and removing virus, retrieving samples to have definitions created. OS and network reconfiguration to prevent spread of virus and prevent further infection or reinfection.
