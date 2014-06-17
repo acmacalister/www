@@ -87,6 +87,7 @@ html {
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
+  padding-bottom: 1rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -100,7 +101,7 @@ a.sidebar-nav-item:focus {
 }
 
 .social-links {
-  padding-right: 2rem;
+  padding-right: 1rem;
   float: left;
 }
 
