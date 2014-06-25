@@ -7,11 +7,11 @@ title:  "Awards & Accolades"
 
 ### [Chat Simply](http://www.chatsimply.com)
 
-Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, etc. I helped with building a Node.js app that was the connection manager for all the clients and provided them with push notifications. Built webhook server in Node.js to integrate external services. Also helped with the desktop apps and assisted on the iOS app.
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, Node.js, etc. My role was building a BOSH connection manager for all clients and provided them with push notifications for iOS devices. I also built a node.js app that worked with external APIs to provide intergrations into chat rooms. Also assisted with the desktop and iOS apps.
 
 ### [Instee](http://www.insteeapp.com)
 
-Social Networking app for connection Instagram users. I built the backend using Rails & ElasticSearch. The app stack I deployed to our VPS was haproxy, nginx, thin, ES, MySQL using capistrano.
+Social Networking app for connecting Instagram users. I built the backend using Rails, ElasticSearch & golang. The app stack I deployed to our VPS was haproxy, nginx, thin, ES, MySQL using capistrano.
 
 # Skills
 
@@ -59,9 +59,9 @@ Tool written in golang for deploying scripts to your VPS.
 
 Simple iOS app built in Swift using the Github API.
 
-### [Chatter](https://github.com/acmacalister/chatter)
+### [Conductor](https://github.com/Vluxe/conductor)
 
-Chat server over websockets.
+Realtime scalable backend with websockets.
 
 ### [CalendarKit](https://github.com/acmacalister/CalendarKit)
 
@@ -79,22 +79,22 @@ Bachelor's in Computer Science, expected May 2015
 
 **July 2012 - Present**
 
-Developed several different software across multiple platforms including iOS, Linux, OS X and Android. Key software platforms were mobile and web. Mobile development was mostly iOS projects involved primarily around designing and building app's for social network and learning management system called My Big Campus. Web development was a project for mobile filter clients to check with hosted services through an API that included client configuration information. Web stack was Node.js, Backbone.js and Ruby on Rails. Also assisted on misc C projects, such as building an Apache authentication module.
+One of the two main App & Agent developer for nix platforms. We developed several iOS apps, with the key one being My Big Campus, a social networking and learning management service. Agents included mobile filter and user agent. Mobile filter was product for content filtering on all major nix systems (OS X/Linux/Android/iOS/etc). User Agent was used to gather LDAP information and report it to our rocket product. Also assisted on misc C projects, such as building an Apache authentication module.
 
 ### Quality Assurance Engineer
 
 **June 2011 - June 2012**
 
-Worked in all aspects of testing to ensure quality software. This included: Creating build scripts for one step builds, troubleshooting and debugging code to resolve issues. Creating software deployment packages on all major platforms (Windows, Mac OS X, Linux). Writing accurate and update to date test plans. Preformed regression testing and code review. Assisting in any major support escalation and case review for technical accuracy.
+Worked in all aspects of testing to ensure quality software. This included: Creating scripts for one step builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate and update to date test plans. I also preformed regression testing, code review and case review for technical accuracy.
 
 ### Technical Support Engineer
 
 **March 2010 - May 2011**
 
-Provided technical assistance on security/networking based product. Top ranked case handler and customer satisfaction. These services included: workload and case management, troubleshooting desktop and server networks and software related problems. Network troubleshooting, web/email/sql installs and network configuration for implementing software in the customer's network.
+Provided technical assistance on security/networking based product. Top case taker and in customer satisfaction rating. Position's duties included: workload and case management,  network and desktop troubleshooting, web/email/sql installs and network configuration for implementing software in the customer's network.
 
 ### Anti-virus Engineer
 
 **August 2009 - March 2010**
 
-Provided customers with technical and desktop assistance on security and anti-virus products. Top ranked case handler and customer satisfaction. This included troubleshooting and removing virus, retrieving samples to have definitions created. OS and network reconfiguration to prevent spread of virus and prevent further infection or reinfection.
+Provided customers with technical and desktop assistance on security and anti-virus products. Number one case handler. Duties involved: removing virus, retrieving samples to have definitions created, OS and network reconfiguration to prevent spread of virus and prevent further infection or reinfection.
