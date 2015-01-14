@@ -7,53 +7,47 @@ title:  "Awards & Accolades"
 
 ### [Chat Simply](http://www.chatsimply.com)
 
-Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, Node.js, etc. My role was building a BOSH connection manager for all clients and provided them with push notifications for iOS devices. I also built a node.js app that worked with external APIs to provide intergrations into chat rooms. Also assisted with the desktop and iOS apps.
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, Node.js, etc. My role was building a BOSH connection manager for clients and provide push notifications for iOS devices. I also built a node.js app that worked with external APIs to provide webhook intergrations into chat rooms. Built the OSX desktop app (web wrapper) and assisted on the iOS app.
 
 ### [Instee](http://www.insteeapp.com)
 
-Social Networking app for connecting Instagram users. I built the backend using Rails, ElasticSearch & golang. The app stack I deployed to our VPS was haproxy, nginx, thin, ES, MySQL using capistrano.
+Social Networking app for friend making. I built the backend using Rails, ElasticSearch & Go. The app stack I deployed to our VPS uses Docker, Nginx, Unicorn, ElasticSearch, Postgres, Go and WebSockets.
 
 # Skills
 
 **Programming Languages**
 
-- Objective-C
-- Swift
 - Go
-- C/C++
+- C
+- Swift
+- Objective-C
+- Rust
 - Ruby
 - Python
 - Javascript
 - Coffeescript
 
-**Tools/Techs**
-
-- iOS/OS X/Linux/FreeBSD
-- Mysql/Postgres
-- NoSQL
-- ElasticSearch
-- Docker
-- Kirk
-- Angular
-- Backbone
-- Node
-- Martini
-- Nginx/Apache/Haproxy
-- On and on
-
 # Open Source
 
-### [Orca](https://github.com/Vluxe/Orca)
+### [Go-Redis](https://github.com/acmacalister/go-redis)
 
-Wireshark clone with a native Cocoa UI using libpcap.
+Redis server in Go.
+
+### [Helm](https://github.com/acmacalister/helm)
+
+Simple Go HTTP Router/Mux.
+
+### [Starscream](https://github.com/daltoniam/starscream)
+
+Swift WebSocket (RFC 6455) client library for iOS & OSX.
 
 ### [Jetfire](https://github.com/acmacalister/jetfire)
 
-WebSocket (RFC 6455) client library for iOS & OS X
+Objective-C WebSocket (RFC 6455) client library for iOS & OSX.
 
-### [Kirk](https://github.com/acmacalister/kirk)
+### [SwiftHTTP](https://github.com/daltoniam/swifthttp)
 
-Tool written in golang for deploying scripts to your VPS.
+Swift HTTP client library for iOS & OSX.
 
 ### [Github-Swift](https://github.com/acmacalister/Github-Swift)
 
@@ -61,17 +55,21 @@ Simple iOS app built in Swift using the Github API.
 
 ### [Conductor](https://github.com/Vluxe/conductor)
 
-Realtime scalable backend with websockets.
+Realtime scalable backend with WebSockets.
 
 ### [CalendarKit](https://github.com/acmacalister/CalendarKit)
 
 Reproduction of iOS 7 Calendar app.
 
+### [Orca](https://github.com/Vluxe/Orca)
+
+Wireshark clone with a native Cocoa UI using libpcap.
+
 # Education
 
 ### The Master's College
 
-Bachelor's in Computer Science, expected May 2015
+Bachelor's in Computer Science, expected May 2016
 
 # Work History
 
@@ -79,22 +77,22 @@ Bachelor's in Computer Science, expected May 2015
 
 **July 2012 - Present**
 
-One of the two main App & Agent developer for nix platforms. We developed several iOS apps, with the key one being My Big Campus, a social networking and learning management service. Agents included mobile filter and user agent. Mobile filter was product for content filtering on all major nix systems (OS X/Linux/Android/iOS/etc). User Agent was used to gather LDAP information and report it to our rocket product. Also assisted on misc C projects, such as building an Apache authentication module.
+Cocoa/Nix Developer. Cocoa projects included a few iOS & OSX apps, with the key one being My Big Campus, a social networking and learning management system (LMS) and User Agent, a system service to report user identification to our Rocket server from Directory Services such as Active Directory and Open Directory. Nix projects included services written in C/C++/Go. Some of these included Apache authentication module, API server for Mobile Filtering client and Mobile Filter client itself for Linux/OSX/Android.
 
 ### Quality Assurance Engineer
 
 **June 2011 - June 2012**
 
-Worked in all aspects of testing to ensure quality software. This included: Creating scripts for one step builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate and update to date test plans. I also preformed regression testing, code review and case review for technical accuracy.
+Worked in all aspects of testing to ensure quality software. This included: Creating scripts for one step builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux) and writing accurate up to date test plans. I also preformed regression testing, code review and case review for technical accuracy.
 
 ### Technical Support Engineer
 
-**March 2010 - May 2011**
+**April 2010 - May 2011**
 
-Provided technical assistance on security/networking based product. Top case taker and in customer satisfaction rating. Position's duties included: workload and case management,  network and desktop troubleshooting, web/email/sql installs and network configuration for implementing software in the customer's network.
+Provided technical assistance on security/networking based product. One of the highest volume of cases taken in a year with a 97% customer satisfaction rating. Position's duties included: workload and case management,  network and desktop troubleshooting, web/email/sql installs and network configuration for implementing software in the customer's network.
 
 ### Anti-virus Engineer
 
 **August 2009 - March 2010**
 
-Provided customers with technical and desktop assistance on security and anti-virus products. Number one case handler. Duties involved: removing virus, retrieving samples to have definitions created, OS and network reconfiguration to prevent spread of virus and prevent further infection or reinfection.
+Provided customers with technical and desktop assistance on security and anti-virus products. Handled the most cases in tenure. Duties involved: removing virus, retrieving samples to have definitions created, OS and network reconfiguration to prevent spread of virus and further reinfection.
