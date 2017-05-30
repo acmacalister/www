@@ -5,6 +5,10 @@ title:  "Awards & Accolades"
 
 # Projects
 
+### [FitClub](http://www.fitclubapp.com)
+
+Fitness training app for iOS. Provided fitness tracking and a trainer marketplace to publish workout plans. The whole backend was built in Go and deployed using Docker, Nginx, Postgres and ElasticSearch. I did a large portiion of the backend API work as well as some of the iOS app, which was written in Swift. I created the marketplace for trainers to sell their workouts using the Stripe API.
+
 ### [Chat Simply](http://www.chatsimply.com)
 
 Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, Node.js, etc. My role was building a BOSH connection manager for clients and provide push notifications for iOS devices. I also built a node.js app that worked with external APIs to provide webhook intergrations into chat rooms. Built the OSX desktop app (web wrapper) and assisted on the iOS app.
@@ -18,20 +22,19 @@ Social Networking app for friend making. I built the backend using Rails, Elasti
 **Programming Languages**
 
 - Go
-- C
 - Swift
 - Objective-C
-- Rust
+- C/C++
+- Java
 - Ruby
 - Python
 - Javascript
-- Coffeescript
 
 # Open Source
 
-### [Go-Redis](https://github.com/acmacalister/go-redis)
+### [Caddy](https://github.com/mholt/caddy)
 
-Redis server in Go.
+Caddy is a general-purpose HTTP/2 web server that serves HTTPS by default. My contributions included work on the WebSocket and reverse proxy middlewares. 
 
 ### [Helm](https://github.com/acmacalister/helm)
 
@@ -53,6 +56,10 @@ Swift HTTP client library for iOS & OSX.
 
 Simple iOS app built in Swift using the Github API.
 
+### [Go-Redis](https://github.com/acmacalister/go-redis)
+
+Redis server in Go.
+
 ### [Conductor](https://github.com/Vluxe/conductor)
 
 Realtime scalable backend with WebSockets.
@@ -67,32 +74,38 @@ Wireshark clone with a native Cocoa UI using libpcap.
 
 # Education
 
-### The Master's College
+### [The Master's University](http://www.masters.edu)
 
-Bachelor's in Computer Science, expected May 2016
+Bachelor's in Computer Science, Minor in Biblical Studies
 
 # Work History
 
-### Developer
+### CoFounder - Vluxe, LLC
 
-**July 2012 - Present**
+**June 2015 - Present**
 
-Cocoa/Nix Developer. Cocoa projects included a few iOS & OSX apps, with the key one being My Big Campus, a social networking and learning management system (LMS) and User Agent, a system service to report user identification to our Rocket server from Directory Services such as Active Directory and Open Directory. Nix projects included services written in C/C++/Go. Some of these included Apache authentication module, API server for Mobile Filtering client and Mobile Filter client itself for Linux/OSX/Android.
+Developer and founder. Contracted to Dollar Shave Club. Built large portions of the app from before launch up to the present. This included an animated WebP viewer, several custom animations, transitions, UI components and HTTP/JSON parsing libraries. See the App on [iTunes](https://itunes.apple.com/us/app/dollar-shave-club/id938309296?mt=8).
 
-### Quality Assurance Engineer
+### Developer - Lightspeed Systems
+
+**July 2012 - March 2015**
+
+Created iOS & OSX apps, with the key one being My Big Campus, a social networking and learning management system. Primary OSX app was a system service to report user identification to a web-filtering server from major Directory Services (AD and OD). Nix projects included an API service, apache authentication module and web-filtering clients for OSX, Linux and Android. Applications were developed in several different languages comprised of: Objective-C, C, C++, Go, Ruby and Coffeescript.
+
+### Quality Assurance Engineer - Lightspeed Systems
 
 **June 2011 - June 2012**
 
-Worked in all aspects of testing to ensure quality software. This included: Creating scripts for one step builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux) and writing accurate up to date test plans. I also preformed regression testing, code review and case review for technical accuracy.
+Worked in all aspects of testing to ensure quality software. Responsibilities encompassed: Creating scripts for automated builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate up to date test plans and case review. 
 
-### Technical Support Engineer
+### Technical Support Engineer - Lightspeed Systems
 
 **April 2010 - May 2011**
 
-Provided technical assistance on security/networking based product. One of the highest volume of cases taken in a year with a 97% customer satisfaction rating. Position's duties included: workload and case management,  network and desktop troubleshooting, web/email/sql installs and network configuration for implementing software in the customer's network.
+Click to edit position descriptionProvided technical assistance on security/networking-based product. One of the highest volumes of cases taken in a year with a 97% customer satisfaction rating. Duties included: case management, network and desktop troubleshooting, web/email/SQL installs and network configuration for software implementations.
 
-### Anti-virus Engineer
+### Anti-virus Engineer - Lightspeed Systems
 
 **August 2009 - March 2010**
 
-Provided customers with technical and desktop assistance on security and anti-virus products. Handled the most cases in tenure. Duties involved: removing virus, retrieving samples to have definitions created, OS and network reconfiguration to prevent spread of virus and further reinfection.
+Provided technical assistance on desktop Anti-Virus product. This included: virus removal, retrieving samples, creating virus definition and network/OS reconfiguration to prevent reinfection.

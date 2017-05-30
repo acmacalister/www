@@ -5,6 +5,10 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
+# gems
+gems: [jekyll-paginate]
+
+
 # Setup
 title:            Austin Cherry
 tagline:          'website for austin'
