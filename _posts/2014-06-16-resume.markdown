@@ -3,6 +3,37 @@ layout: post
 title:  "Awards & Accolades"
 ---
 
+# Work History
+
+### CoFounder - Vluxe, LLC
+
+**June 2015 - Present**
+Developer and founder. Contracted with Dollar Shave Club on their iOS app and a small startup called Fitclub. Created custom UI components, animations and a WebP image library. Worked in both Objective-C and Swift with a successful transition to a primarily Swift code base. Maintained a 99% crash free usage with 100k+ daily users. Created an entire API for an iOS app in Go. This included database queries to Postgres, searching with ElasticSearch, payment gateway using Stripe, Facebook login and event scheduling using Redis. See the App on [iTunes](https://itunes.apple.com/us/app/dollar-shave-club/id938309296?mt=8).
+
+### Developer - Lightspeed Systems
+
+**July 2012 - March 2015**
+
+Created iOS & OSX apps, with the key one being My Big Campus, a social networking and learning management system. Primary OSX app was a system service to report user identification to a web-filtering server from major Directory Services (AD and OD). Nix projects included an API service, apache authentication module and web-filtering clients for OSX, Linux and Android. Applications were developed in several different languages comprised of: Objective-C, C, C++, Go, Ruby and Coffeescript.
+
+### Quality Assurance Engineer - Lightspeed Systems
+
+**June 2011 - June 2012**
+
+Worked in all aspects of testing to ensure quality software. Responsibilities encompassed: Creating scripts for automated builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate up to date test plans and case review. 
+
+### Technical Support Engineer - Lightspeed Systems
+
+**April 2010 - May 2011**
+
+Click to edit position descriptionProvided technical assistance on security/networking-based product. One of the highest volumes of cases taken in a year with a 97% customer satisfaction rating. Duties included: case management, network and desktop troubleshooting, web/email/SQL installs and network configuration for software implementations.
+
+### Anti-virus Engineer - Lightspeed Systems
+
+**August 2009 - March 2010**
+
+Provided technical assistance on desktop Anti-Virus product. This included: virus removal, retrieving samples, creating virus definition and network/OS reconfiguration to prevent reinfection.
+
 # Projects
 
 ### [FitClub](http://www.fitclubapp.com)
@@ -16,19 +47,6 @@ Designed around the idea of making group chat simple. Built off open standards a
 ### [Instee](http://www.insteeapp.com)
 
 Social Networking app for friend making. I built the backend using Rails, ElasticSearch & Go. The app stack I deployed to our VPS uses Docker, Nginx, Unicorn, ElasticSearch, Postgres, Go and WebSockets.
-
-# Skills
-
-**Programming Languages**
-
-- Go
-- Swift
-- Objective-C
-- C/C++
-- Java
-- Ruby
-- Python
-- Javascript
 
 # Open Source
 
@@ -78,34 +96,40 @@ Wireshark clone with a native Cocoa UI using libpcap.
 
 Bachelor's in Computer Science, Minor in Biblical Studies
 
-# Work History
+# Skills
 
-### CoFounder - Vluxe, LLC
+**Programming Languages**
 
-**June 2015 - Present**
+- Go
+- Swift
+- Objective-C
+- C/C++
+- Java
+- Ruby
+- Python
+- Javascript
 
-Developer and founder. Contracted to Dollar Shave Club. Built large portions of the app from before launch up to the present. This included an animated WebP viewer, several custom animations, transitions, UI components and HTTP/JSON parsing libraries. See the App on [iTunes](https://itunes.apple.com/us/app/dollar-shave-club/id938309296?mt=8).
+**Frameworks**
 
-### Developer - Lightspeed Systems
+- CoreData
+- SpriteKit 
+- UIKit
+- AppKit
+- CoreAnimation
+- AVFoundation
+- Rails
+- Node.js
+- Go-Kit
 
-**July 2012 - March 2015**
+**Applications**
 
-Created iOS & OSX apps, with the key one being My Big Campus, a social networking and learning management system. Primary OSX app was a system service to report user identification to a web-filtering server from major Directory Services (AD and OD). Nix projects included an API service, apache authentication module and web-filtering clients for OSX, Linux and Android. Applications were developed in several different languages comprised of: Objective-C, C, C++, Go, Ruby and Coffeescript.
-
-### Quality Assurance Engineer - Lightspeed Systems
-
-**June 2011 - June 2012**
-
-Worked in all aspects of testing to ensure quality software. Responsibilities encompassed: Creating scripts for automated builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate up to date test plans and case review. 
-
-### Technical Support Engineer - Lightspeed Systems
-
-**April 2010 - May 2011**
-
-Click to edit position descriptionProvided technical assistance on security/networking-based product. One of the highest volumes of cases taken in a year with a 97% customer satisfaction rating. Duties included: case management, network and desktop troubleshooting, web/email/SQL installs and network configuration for software implementations.
-
-### Anti-virus Engineer - Lightspeed Systems
-
-**August 2009 - March 2010**
-
-Provided technical assistance on desktop Anti-Virus product. This included: virus removal, retrieving samples, creating virus definition and network/OS reconfiguration to prevent reinfection.
+- MySQL
+- Postgres
+- Nginx
+- Apache
+- Caddy
+- Redis
+- MongoDB
+- ElasticSearch
+- Docker
+- Unicorn
