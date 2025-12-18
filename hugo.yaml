@@ -1,0 +1,94 @@
+baseURL: "https://austincherry.me/"
+title: Austin Cherry
+pagination:
+  pagerSize: 5
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Austin Cherry
+  description: "Software Engineer. iOS/macOS developer, Go enthusiast. Open source contributor."
+  keywords: [Austin Cherry, Software Engineer, iOS, macOS, Go, Swift, Open Source]
+  author: Austin Cherry
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: Austin Cherry
+    subtitle: "Software Engineer. iOS/macOS developer and Go enthusiast. Open source contributor. Believer in Jesus Christ."
+    imageUrl: "https://avatars.githubusercontent.com/u/1024755?v=4"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: About
+        url: about
+      - name: GitHub
+        url: https://github.com/acmacalister
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/acmacalister"
+    - name: x
+      url: "https://twitter.com/acmacalister"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

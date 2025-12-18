@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Awards & Accolades"
+title: "About"
+url: "/about/"
+summary: "About Austin Cherry"
 ---
 
 # Work History
@@ -8,6 +9,7 @@ title:  "Awards & Accolades"
 ### CoFounder - Vluxe, LLC
 
 **June 2015 - Present**
+
 Developer and founder. Contracted with Dollar Shave Club on their iOS app and a small startup called Fitclub. Created custom UI components, animations and a WebP image library. Worked in both Objective-C and Swift with a successful transition to a primarily Swift code base. Maintained a 99% crash free usage with 100k+ daily users. Created an entire API for an iOS app in Go. This included database queries to Postgres, searching with ElasticSearch, payment gateway using Stripe, Facebook login and event scheduling using Redis. See the App on [iTunes](https://itunes.apple.com/us/app/dollar-shave-club/id938309296?mt=8).
 
 ### Developer - Lightspeed Systems
@@ -20,13 +22,13 @@ Created iOS & OSX apps, with the key one being My Big Campus, a social networkin
 
 **June 2011 - June 2012**
 
-Worked in all aspects of testing to ensure quality software. Responsibilities encompassed: Creating scripts for automated builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate up to date test plans and case review. 
+Worked in all aspects of testing to ensure quality software. Responsibilities encompassed: Creating scripts for automated builds, troubleshooting and debugging code to resolve issues, creating software deployment packages on all major platforms (Windows, Mac OS X, Linux), writing accurate up to date test plans and case review.
 
 ### Technical Support Engineer - Lightspeed Systems
 
 **April 2010 - May 2011**
 
-Click to edit position descriptionProvided technical assistance on security/networking-based product. One of the highest volumes of cases taken in a year with a 97% customer satisfaction rating. Duties included: case management, network and desktop troubleshooting, web/email/SQL installs and network configuration for software implementations.
+Provided technical assistance on security/networking-based product. One of the highest volumes of cases taken in a year with a 97% customer satisfaction rating. Duties included: case management, network and desktop troubleshooting, web/email/SQL installs and network configuration for software implementations.
 
 ### Anti-virus Engineer - Lightspeed Systems
 
@@ -38,11 +40,11 @@ Provided technical assistance on desktop Anti-Virus product. This included: viru
 
 ### [FitClub](http://www.fitclubapp.com)
 
-Fitness training app for iOS. Provided fitness tracking and a trainer marketplace to publish workout plans. The whole backend was built in Go and deployed using Docker, Nginx, Postgres and ElasticSearch. I did a large portiion of the backend API work as well as some of the iOS app, which was written in Swift. I created the marketplace for trainers to sell their workouts using the Stripe API.
+Fitness training app for iOS. Provided fitness tracking and a trainer marketplace to publish workout plans. The whole backend was built in Go and deployed using Docker, Nginx, Postgres and ElasticSearch. I did a large portion of the backend API work as well as some of the iOS app, which was written in Swift. I created the marketplace for trainers to sell their workouts using the Stripe API.
 
 ### [Chat Simply](http://www.chatsimply.com)
 
-Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, Node.js, etc. My role was building a BOSH connection manager for clients and provide push notifications for iOS devices. I also built a node.js app that worked with external APIs to provide webhook intergrations into chat rooms. Built the OSX desktop app (web wrapper) and assisted on the iOS app.
+Designed around the idea of making group chat simple. Built off open standards and projects like XMPP, Backbone, Rails, Node.js, etc. My role was building a BOSH connection manager for clients and provide push notifications for iOS devices. I also built a node.js app that worked with external APIs to provide webhook integrations into chat rooms. Built the OSX desktop app (web wrapper) and assisted on the iOS app.
 
 ### [Instee](http://www.insteeapp.com)
 
@@ -52,7 +54,7 @@ Social Networking app for friend making. I built the backend using Rails, Elasti
 
 ### [Caddy](https://github.com/mholt/caddy)
 
-Caddy is a general-purpose HTTP/2 web server that serves HTTPS by default. My contributions included work on the WebSocket and reverse proxy middlewares. 
+Caddy is a general-purpose HTTP/2 web server that serves HTTPS by default. My contributions included work on the WebSocket and reverse proxy middlewares.
 
 ### [Helm](https://github.com/acmacalister/helm)
 
@@ -112,7 +114,7 @@ Bachelor's in Computer Science, Minor in Biblical Studies
 **Frameworks**
 
 - CoreData
-- SpriteKit 
+- SpriteKit
 - UIKit
 - AppKit
 - CoreAnimation

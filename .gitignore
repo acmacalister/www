@@ -1,7 +1,9 @@
-# Ignore docs files
-_gh_pages
-_site
-.ruby-version
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo cache
+.hugo_build.lock
 
 # Numerous always-ignore extensions
 *.diff
@@ -32,10 +34,6 @@ nbproject
 # Komodo
 *.komodoproject
 .komodotools
-
-# grunt-html-validation
-validation-status.json
-validation-report.json
 
 # Folders to ignore
 node_modules
